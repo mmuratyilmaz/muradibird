@@ -1,0 +1,10 @@
+c:\users\murat\documents\visual studio 2015\Projects\MuradiBird\MuradiBird\bin\Debug\MuradiBird.exe.config
+c:\users\murat\documents\visual studio 2015\Projects\MuradiBird\MuradiBird\bin\Debug\MuradiBird.exe
+c:\users\murat\documents\visual studio 2015\Projects\MuradiBird\MuradiBird\bin\Debug\MuradiBird.pdb
+c:\users\murat\documents\visual studio 2015\Projects\MuradiBird\MuradiBird\obj\Debug\MuradiBird.csprojResolveAssemblyReference.cache
+c:\users\murat\documents\visual studio 2015\Projects\MuradiBird\MuradiBird\obj\Debug\MuradiBird.Form1.resources
+c:\users\murat\documents\visual studio 2015\Projects\MuradiBird\MuradiBird\obj\Debug\MuradiBird.Properties.Resources.resources
+c:\users\murat\documents\visual studio 2015\Projects\MuradiBird\MuradiBird\obj\Debug\MuradiBird.csproj.GenerateResource.Cache
+c:\users\murat\documents\visual studio 2015\Projects\MuradiBird\MuradiBird\obj\Debug\MuradiBird.exe
+c:\users\murat\documents\visual studio 2015\Projects\MuradiBird\MuradiBird\obj\Debug\MuradiBird.pdb
+c:\users\murat\documents\visual studio 2015\Projects\MuradiBird\MuradiBird\obj\Debug\MuradiBird.Form2.resources
